@@ -1,0 +1,137 @@
+/********************* Tag Styles *********************/
+a {
+    text-decoration: none;
+    color: #2A6957;
+}
+
+body {
+    background-color: #E8D0B3;
+    font-family: 'Merriweather Sans', serif;
+    color: #86340A;
+    margin: 0;
+    text-align: center;
+}
+
+h1 {
+    color: #86340A;
+    font-family: 'Pacifico', cursive;
+    font-size: 440%;
+    margin-top: 50px;
+}
+
+h2 {
+    color: #86340A;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2rem;
+}
+
+h3 {
+    color: #86340A;
+    font-family: 'Montserrat', sans-serif;
+}
+
+hr {
+    border: dotted #C36839 6px;
+    border-bottom: none;
+    margin: 100px auto 100px auto;
+    width: 4%;
+}
+
+/********************* Class Styles *********************/
+
+.andrew-pic {
+    border-radius: 100%;
+    width: 20%;
+}
+
+.top-container {
+    background-color: #7EB5A6;
+    position: relative;
+    padding-top: 100px;
+}
+
+.middle-container {
+    padding-top: 75px;
+    padding-bottom: 75px;
+}
+
+.bottom-container {
+    color: #2A6957;
+    margin: 0 0 0 0 ;
+    background-color: #7EB5A6;
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+
+.pro {
+    text-decoration: underline;
+}
+
+.profile {
+    margin-bottom: 2%;
+}
+
+.bottom-cloud {
+    position: absolute;
+    left: 300px;
+    bottom: 300px;
+}
+
+.top-cloud {
+    position: absolute;
+    right: 300px;
+    top: 50px;
+}
+
+.skill-row {
+    line-height: 2;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    width: 50%;
+}
+
+.webdev-pic {
+    float: left;
+    margin-right: 30px;
+    width: 25%;
+}
+
+.python-pic {
+    margin-left: 30px;
+    float: right;
+    width: 25%;
+}
+
+.r-pic {
+    float: left;
+    margin-right: 30px;
+    width: 25%;
+}
+
+.more-pic {
+    margin-left: 30px;
+    float: right;
+    width: 25%;
+}
+
+.btn {
+    -webkit-border-radius: 10;
+    -moz-border-radius: 10;
+    border-radius: 10px;
+    font-family: 'Montserrat', sans-serif;
+    color: #E8D0B3;
+    font-size: 20px;
+    background: #86340A;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #C36839;
+    text-decoration: none;
+  }
+
+  .contact-message {
+      width: 40%;
+      margin: 40px auto 60px;
+  }
